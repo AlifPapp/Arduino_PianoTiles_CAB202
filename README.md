@@ -1,37 +1,30 @@
-<h2 align="center">Arduino PianoTiles</h2>
+<h1 align="center">Arduino PianoTiles</h2>
 
 <div>
   <p align="center">
-    <a href="https://AlifPapp.github.io/Arduino_PianoTiles_CAB202/">
-    <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/1.png" height="500" align="center" alt="AutoSend.png"></a>
-    <a href="https://AlifPapp.github.io/Arduino_PianoTiles_CAB202/">
-    <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/2.png" height="500" align="center" alt="AutoSend.png"></a>
-    <a href="https://AlifPapp.github.io/Arduino_PianoTiles_CAB202/">
-    <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/3.png" height="500" align="center" alt="AutoSend.png"></a>
+    <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/1.png" height="500" align="center" alt="AutoSend.png">
+    <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/2.png" height="500" align="center" alt="AutoSend.png">
+    <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/3.png" height="500" align="center" alt="AutoSend.png">
   </p>
 </div>
 
+# Overview
+The [Prototype](#prototype) was made as a first draft, initially using libraries to help establish the underlying logic. I also realised I could include an LED and serial monitor to get more marks. Thus, it was modified and improved in the [Final](#final) version.
+
+# Prototype
+**Prototype:** https://www.tinkercad.com/things/a9mOXm0eM2W
 <div>
-  <p align="center">
+  <p align="left">
     <a href="https://www.tinkercad.com/things/a9mOXm0eM2W">
     <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/4.png" height="400" align="center" alt="AutoSend.png"></a>
 </div>
 
-**Share Link:** https://www.tinkercad.com/things/a9mOXm0eM2W
+# Final
+**Final:** https://www.tinkercad.com/things/3O3h7c574gt-arduinopianotilescab202
+<div>
+  <p align="left">
+    <a href="https://www.tinkercad.com/things/3O3h7c574gt-arduinopianotilescab202">
+    <img src="https://raw.githubusercontent.com/AlifPapp/Arduino_PianoTiles_CAB202/main/images/5.png" height="400" align="center" alt="AutoSend.png"></a>
+</div>
 
-## Instructions
 
-### How To Play:
-1. Hit the start button.
-2. As the notes fall, press the corresponding note in the correct order.
-You can only hit the notes below the barrier, which is distinguished by a white line.
-
-### Game Over:
-1. You lose if you fail to hit the note before it touches the bottom of the LCD.
-2. When you lose, you get a score, which is the amount of time you have lasted.
-
-### Difficulty:
-1. Change the speed of the song. Makes it easier/harder to hit the falling notes.
-2. Change the height of the barrier. Allows you to hit the notes sooner/later when they appear.
-3. Toggle game over. Prevents you from losing when the note touches the bottom of the LCD.
-4. (shift + left click) to hold a button-down. When the button is held down, the notes will automatically be hit without pressing any more buttons 
